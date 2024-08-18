@@ -1,4 +1,4 @@
-# IOS-Practice-Projects
+# IOS-Practice-Projects 👨🏻‍💻✨
 
 ### This repository is solely created for the practice projects followed in relation to IOS Mobile Application Development.
 
@@ -7,4 +7,4 @@
 * LinkedIn Courses
 * And their extensible workings
 
-👨🏻‍💻✨
+
